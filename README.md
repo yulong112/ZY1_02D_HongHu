@@ -11,6 +11,7 @@ Fig. 1. ZY1-02D-HongHu dataset. (a) False color composition. (b) Ground truth.
 
 
 <img src="figure/ZY-HH_table.png" width="360" height="160"/> 
+
 Fig. 2. Class labels in ZY1-02D-HongHu dataset.
 
 ## Introduction
