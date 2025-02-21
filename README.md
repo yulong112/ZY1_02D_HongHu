@@ -5,7 +5,7 @@
 
 <img src="figure/false-color.png" width="700" height="230"/> 
 <img src="figure/ZY-HH-GT.png" width="700" height="230"/> 
-<img src="figure/ZY-HH_legend.png" width="400" height="36"/>
+<img src="figure/ZY-HH_legend.png" width="400" height="28"/>
 
 Fig. 1. ZY1-02D-HongHu dataset. (a) False color composition. (b) Ground truth.
 
