@@ -15,7 +15,7 @@ Fig. 2. Class labels in ZY1-02D-HongHu dataset.
 
 ## Introduction
 
-ZY1-02D-HongHu dataset is our newly released HSI. The HSI was acquired by the hyperspectral imager on the ZiYuan-1 (02D) [ZY-1(02D)] satellite (on May 24, 2021), over a rural-urban fringe area in Honghu, Jingzhou, Hubei Province. It contains 166 spectral bands from 400-2500 nm and 119×374 pixels with a spatial resolution of 30 m. We labeled 5426 pixels in this dataset into 5 classes: Vegetation, Pond, Impervious surface, River and Cropland. As it can be seen from the false color image, this scene is characterized by a large number of spatially fragmented land cover regions. The challenge is to capture the exact boundaries of the land cover areas.
+ZY1-02D-HongHu dataset is our newly released HSI. The HSI was acquired by the hyperspectral imager on the ZiYuan-1 (02D) [ZY-1(02D)] satellite (on May 24, 2021), over a rural-urban fringe area in Honghu, Jingzhou, Hubei Province. It contains 166 spectral bands from 400-2500 nm and 119×374 pixels with a spatial resolution of 30 m. We labeled 6807 pixels in this dataset into 5 classes: Vegetation, Pond, Impervious surface, River and Cropland. As it can be seen from the false color image, this scene is characterized by a large number of spatially fragmented land cover regions. The challenge is to capture the exact boundaries of the land cover areas.
 
 ## Citation
 
