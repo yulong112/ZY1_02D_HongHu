@@ -5,11 +5,11 @@
 
 <img src="figure/false-color.png" width="700" height="230"/> 
 <img src="figure/ZY-HH-GT.png" width="700" height="230"/> 
-<img src="figure/ZY-HH_legend.png" width="500" height="30"/>
+<img src="figure/ZY-HH_legend.png" width="500" height="40"/>
 
 Fig. 1. ZY1-02D-HongHu dataset. (a) False color composition. (b) Ground truth.
 
-<img src="figure/ZY-HH_table.png" width="500" height="200"/> 
+<img src="figure/ZY-HH_table.png" width="460" height="200"/> 
 
 Fig. 2. Class labels in ZY1-02D-HongHu dataset.
 
@@ -21,13 +21,12 @@ ZY1-02D-HongHu dataset is our newly released HSI. The HSI was acquired by the hy
 
 If you use this dataset in your research, we would appreciate your citation to the following paper:
 
-@ARTICLE{yu2024dSPG,
-  author={Yu, Long and Li, Jun and He, Lin and Plaza, Antonio and Wang, Lizhe and Tang, Zhonghui and Zhuo, Li and Yuan, Yuchen},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={dSPG: A New Discriminant Superpixel Graph Regularizer and Convolutional Network for Hyperspectral Image Classification}, 
-  year={2024},
-  volume={62},
-  number={},
-  pages={1-18},
-  doi={10.1109/TGRS.2024.3439434}}
-
+	@ARTICLE{yu2024dSPG,
+	  author={Yu, Long and Li, Jun and He, Lin and Plaza, Antonio and Wang, Lizhe and Tang, Zhonghui and Zhuo, Li and Yuan, Yuchen},
+	  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+	  title={dSPG: A New Discriminant Superpixel Graph Regularizer and Convolutional Network for Hyperspectral Image Classification}, 
+	  year={2024},
+	  volume={62},
+	  number={},
+	  pages={1-18},
+	  doi={10.1109/TGRS.2024.3439434}}
