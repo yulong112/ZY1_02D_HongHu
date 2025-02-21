@@ -5,11 +5,11 @@
 
 <img src="figure/false-color.png" width="700" height="230"/> 
 <img src="figure/ZY-HH-GT.png" width="700" height="230"/> 
-<img src="figure/ZY-HH_legend.png" width="500" height="40"/>
+<img src="figure/ZY-HH_legend.png" width="400" height="32"/>
 
 Fig. 1. ZY1-02D-HongHu dataset. (a) False color composition. (b) Ground truth.
 
-<img src="figure/ZY-HH_table.png" width="460" height="200"/> 
+<img src="figure/ZY-HH_table.png" width="450" height="200"/> 
 
 Fig. 2. Class labels in ZY1-02D-HongHu dataset.
 
