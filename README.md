@@ -3,13 +3,13 @@
 ## ZY1-02D-HongHu Dataset for hyperspectral image (HSI) classification
 ---
 
-<img src="figure/false-color.png" width="500" height="160"/> 
-<img src="figure/ZY-HH-GT.png" width="500" height="160"/> 
-<img src="figure/ZY-HH_legend.png" width="600" height="50"/>
+<img src="figure/false-color.png" width="700" height="230"/> 
+<img src="figure/ZY-HH-GT.png" width="700" height="230"/> 
+<img src="figure/ZY-HH_legend.png" width="500" height="30"/>
 
 Fig. 1. ZY1-02D-HongHu dataset. (a) False color composition. (b) Ground truth.
 
-<img src="figure/ZY-HH_table.png" width="400" height="200"/> 
+<img src="figure/ZY-HH_table.png" width="500" height="200"/> 
 
 Fig. 2. Class labels in ZY1-02D-HongHu dataset.
 
