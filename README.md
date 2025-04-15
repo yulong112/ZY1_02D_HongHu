@@ -31,3 +31,26 @@ If you use this dataset in your research, we would appreciate your citation to t
 	  number={},
 	  pages={1-18},
 	  doi={10.1109/TGRS.2024.3439434}}
+
+	@article{Yu2024CIDA,
+	  title={Class-independent domain adaptation for hyperspectral image classification},
+	  author={Yu, Long and Li, Jun and He, Lin and li, Yunfei},
+	  journal={National Remote Sensing Bulletin},
+	  volume={28},
+	  number={3},
+	  pages={610-623},
+	  year={2024},
+	  doi={10.11834/jrs.20232512}
+	}
+ 
+	@article{Yu2024CIDA,
+	  title={高光谱图像类别独立的域适应分类},
+	  author={余龙 and 李军 and 贺霖 and 李云飞},
+	  journal={遥感学报},
+	  volume={28},
+	  number={3},
+	  pages={610-623},
+	  year={2024},
+	  doi={10.11834/jrs.20232512},
+	  language={ch},
+	}
