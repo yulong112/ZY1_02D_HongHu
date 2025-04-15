@@ -42,15 +42,7 @@ If you use this dataset in your research, we would appreciate your citation to t
 	  year={2024},
 	  doi={10.11834/jrs.20232512}
 	}
- 
-	@article{Yu2024CIDA,
-	  title={高光谱图像类别独立的域适应分类},
-	  author={余龙 and 李军 and 贺霖 and 李云飞},
-	  journal={遥感学报},
-	  volume={28},
-	  number={3},
-	  pages={610-623},
-	  year={2024},
-	  doi={10.11834/jrs.20232512},
-	  language={ch},
-	}
+
+ 中文引用：
+* Long Yu，Jun Li，Lin He and Yunfei Li. Class-independent domain adaptation for hyperspectral image classification. ***National Remote Sensing Bulletin***, 2024, 28(3):610-623. doi: 10.11834/jrs.20232512.（余龙，李军，贺霖，李云飞.2024.高光谱图像类别独立的域适应分类.遥感学报，28（3）： 610-623 DOI: 10.11834/jrs.20232512.）
+* Long Yu, Jun Li*, Lin He, Antonio Plaza, Lizhe Wang, and Zhonghui Tang. dSPG: A New Discriminant Superpixel Graph Regularizer and Convolutional Network for Hyperspectral Image Classification, ***IEEE Transactions on Geoscience and Remote Sensing***, 2024, 62:1-18, 5526118. doi: 10.1109/TGRS.2024.3439434.
